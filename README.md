@@ -1,6 +1,8 @@
 # uml
 
-MuscleOnFire - main() function
+MuscleOnFire (inherit Game) - main() function
+
+GameScreen (Screen) - main playing game function
 
 GameObject - Sia Sheng Jie
 
@@ -12,11 +14,13 @@ Health - Sia Sheng Jie
 
 Controls - Sia Sheng Jie
 
+Button (inherit GO) - Sia Sheng Jie
+
 Floor (inherit GO) - Sia Sheng Jie
 
 Falling Objects (inherit GO) (falling objects) - Jocelyn Ngieng Hui Ying
 
-Game Over - Jocelyn Ngieng Hui Ying
+Game Over (Screen) - Jocelyn Ngieng Hui Ying
 
 Obstacles (Medicine/Fire/Rescue) (inherit GO) - Teoh Yi Jen
 
@@ -28,16 +32,16 @@ Building (background) - Kong Zhi Syuen
 
 Windows (background) - Kong Zhi Syuen
 
-Settings - Kong Zhi Syuen
+Settings (Screen) - Kong Zhi Syuen
 
 Music / Sounds - Kong Zhi Syuen
 
-Menu - Patrick Sia Jian Jie
+Menu (Screen) - Patrick Sia Jian Jie
 
-Shop - Chai Woon Hue
+Shop (Screen) - Chai Woon Hue
 
-Special Floors - Cheah Hao Yang
+Special Floors (inherit GO) - Cheah Hao Yang
 
-Enemies - Ng Ker Jing
+Enemies (inherit GO) - Ng Ker Jing
 
 PowerUp / Item - Ng Ker Jing
