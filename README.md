@@ -1,16 +1,24 @@
 # uml
 
-🕹Gamescreen 🕹
-
 GameObject - Sia Sheng Jie
 
 Player (inherit GO) - Sia Sheng Jie
+
+Animation (Ani.java)- Sia Sheng Jie
+
+Health - Sia Sheng Jie
+
+Controls - Sia Sheng Jie
 
 Floor (inherit GO) - Sia Sheng Jie
 
 Falling Objects (inherit GO) (falling objects) - Jocelyn Ngieng Hui Ying
 
-Obstacles (inherit GO) - Teoh Yi Jen
+Game Over - Jocelyn Ngieng Hui Ying
+
+Obstacles (Medicine/Fire/Rescue) (inherit GO) - Teoh Yi Jen
+
+Score (points -> coins) - Teoh Yi Jen
 
 Building (background) - Kong Zhi Syuen
 
@@ -18,16 +26,14 @@ Windows (background) - Kong Zhi Syuen
 
 Settings - Kong Zhi Syuen
 
-Score (points -> coins) - Teoh Yi Jen
+Music / Sounds - Kong Zhi Syuen
 
 Menu - Patrick Sia Jian Jie
 
 Shop - Chai Woon Hue
 
-Game Over - Jocelyn
-
 Special Floors - Cheah Hao Yang
 
 Enemies - Ng Ker Jing
 
-PowerUp / Item - kj
+PowerUp / Item - Ng Ker Jing
