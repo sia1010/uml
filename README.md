@@ -1,5 +1,7 @@
 # uml
 
+MuscleOnFire - main() function
+
 GameObject - Sia Sheng Jie
 
 Player (inherit GO) - Sia Sheng Jie
@@ -19,6 +21,8 @@ Game Over - Jocelyn Ngieng Hui Ying
 Obstacles (Medicine/Fire/Rescue) (inherit GO) - Teoh Yi Jen
 
 Score (points -> coins) - Teoh Yi Jen
+
+Coins - Teoh Yi Jen
 
 Building (background) - Kong Zhi Syuen
 
