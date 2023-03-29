@@ -1,5 +1,15 @@
 # uml
 
+# GROUP MEMBERS
+1. Sia Sheng Jie - 21001570
+2. Teoh Yi Jen - 21001655
+3. Jocelyn Ngieng Hui Ying - 21001427
+4. Ng Ker Jing - 21001585
+5. Chai Woon Hue - 21001396
+6. Cheah Hao Yang - 21001397
+7. Patrick Sia Jian Jie - 21001410
+8. Kong Zhi Syuen - 21001395
+
 MuscleOnFire (inherit Game) - main() function
 
 GameScreen (Screen) - main playing game function
